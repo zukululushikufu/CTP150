@@ -26,5 +26,4 @@ public class LoopCall
 /* Notes
 * Static methods call other static methods
 * Single statements in for loops don't require {}
-* 
 */
