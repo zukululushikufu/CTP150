@@ -6,7 +6,7 @@ All files are .java
 
 Read order by date: 
 1-28-19
-1.) StringMethod
+1.) StringMethod \n
 2.) LoopCall
 3.) DeeperAndDeeper
 
