@@ -1,0 +1,69 @@
+
+Class has not been created. There are 0 items.
+    
+    Brochure class created. 
+    
+    The Brochure consists of 0 items.
+    
+    
+    The Brochure consists of 3 items.
+    Item: 900, Pencils. Price: $1.25 
+    Item: 234, Crayons. Price: $2.50 
+    Item: 245, Paper. Price: $5.00 
+    
+    
+    The Brochure consists of 5 items.
+    Item: 900, Pencils. Price: $1.25 
+    Item: 234, Crayons. Price: $2.50 
+    Item: 245, Paper. Price: $5.00 
+    Item: 987, Coloring Book. Price: $9.75 
+    Item: 876, Magic Marker. Price: $3.75 
+    
+    
+    Changed LOCAL item Item: 900, Pencils. Price: $1.25  to Item: 900, Pencils (10 count). Price: $1.25 
+    Change should NOT be reflected in the Brochure!
+    
+    The Brochure consists of 5 items.
+    Item: 900, Pencils. Price: $1.25 
+    Item: 234, Crayons. Price: $2.50 
+    Item: 245, Paper. Price: $5.00 
+    Item: 987, Coloring Book. Price: $9.75 
+    Item: 876, Magic Marker. Price: $3.75 
+    
+    
+    Changed first item in the Brochure
+    
+    The Brochure consists of 5 items.
+    Item: 900, Pencils (15 count). Price: $1.75 
+    Item: 234, Crayons. Price: $2.50 
+    Item: 245, Paper. Price: $5.00 
+    Item: 987, Coloring Book. Price: $9.75 
+    Item: 876, Magic Marker. Price: $3.75 
+    
+    
+    Increasing prices by 10%
+    
+    The Brochure consists of 5 items.
+    Item: 900, Pencils (15 count). Price: $1.93 
+    Item: 234, Crayons. Price: $2.75 
+    Item: 245, Paper. Price: $5.50 
+    Item: 987, Coloring Book. Price: $10.73 
+    Item: 876, Magic Marker. Price: $4.13 
+    
+    
+    LOCAL item2 should contain original price
+    Item: 234, Crayons. Price: $2.50 
+    
+    Locating a BrochureItem
+    Found item 900!
+    Didn't find item 900456!
+    
+    Here is the final list: 
+    The Brochure consists of 5 items.
+    Item: 900, Pencils (15 count). Price: $1.93 
+    Item: 234, Crayons. Price: $2.75 
+    Item: 245, Paper. Price: $5.50 
+    Item: 987, Coloring Book. Price: $10.73 
+    Item: 876, Magic Marker. Price: $4.13 
+    
+    
