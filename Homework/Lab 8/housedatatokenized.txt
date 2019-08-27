@@ -1,0 +1,13 @@
+Bill Wygant,Alain Pinel Realtors,San Francisco,CA,252371
+Patrick Lam,Century 21,San Francisco,CA,249950
+Rod Tietz,True Life Real Estate,Shakopee,MN,169900
+Kristine Jones,Edina Realty,Shakopee,MN,229900
+Eric Forney,Keller Williams,Indianapolis,IN,174999
+Susan Colella,Baird & Warner,Naperville,IL,324900
+Jonathan Howard,F.O. Bailey Real Estate,Hollis,ME,284900
+Jaylan Archer,Bean Group,Cape Neddick,ME,428000
+Brad Reynolds,Keller Williams,Nashville,TN,748000
+Sherry Hulen,Crye-Leike Realtors,Collierville,TN,645000
+Angie Beck,Better Homes and Gardens,Evans,GA,335710
+Jesse Knight,Real Estate Brokers of Alaska,Anchorage,AL,275000
+
