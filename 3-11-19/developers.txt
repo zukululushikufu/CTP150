@@ -1,0 +1,6 @@
+James Gosling Java
+Sun Microsystems 1995
+Guido van Rossum Python
+Centrum Wiskunde & Informatica (CWI)1989
+Dennis Ritchie C
+Bell Labs 1970
